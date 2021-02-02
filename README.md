@@ -1,7 +1,7 @@
-Final Year Btech-CSE student in NIT PATNA
+⭐Final Year Btech-CSE student in NIT PATNA
 
-Loves Web development using Django and Django Rest framework
+⭐ Loves Web development using Django and Django Rest framework
 
-Linkdin profile https://www.linkedin.com/in/prashant-thakur-531842166/
+⭐ Linkdin profile https://www.linkedin.com/in/prashant-thakur-531842166/
 
-Owner of social networking website http://fricle.tech
+⭐ Developer and Owner of social networking website fricle http://fricle.tech
