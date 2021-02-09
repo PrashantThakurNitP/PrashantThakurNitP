@@ -2,6 +2,9 @@
 
 ⭐ Loves Web development using Django and Django Rest framework
 
-⭐ Linkdin profile https://www.linkedin.com/in/prashant-thakur-531842166/
+⭐ Linkdin profile https://www.linkedin.com/in/prashantthakurnitp/
 
 ⭐ Developer and Owner of social networking website fricle http://fricle.tech
+
+⭐ Email prashantt.ug17.cs@nitp.ac.in
+
