@@ -4,7 +4,7 @@
 
 ⭐ Linkdin profile https://www.linkedin.com/in/prashantthakurnitp/
 
-⭐ Developer and Owner of social networking website fricle http://fricle.tech
+⭐ Developer  of social networking website fricle http://fricle.tech and
 
 ⭐ Email prashantt.ug17.cs@nitp.ac.in
 
