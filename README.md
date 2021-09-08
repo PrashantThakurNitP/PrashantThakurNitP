@@ -1,11 +1,15 @@
-⭐Final Year Btech-CSE student in NIT PATNA
+⭐ ASDE1 @ Publicis Sapient
 
-⭐ Loves Web development using Django and Django Rest framework
+⭐ Currently Works on ReactJs and SpringBoot
+
+⭐ Graduated from Btech-CSE from NIT PATNA in 2021
+
+⭐ Have worked on Web development framework Django, SpringBoot, Nodejs, ReactJs and Django Rest framework
 
 ⭐ Linkdin profile https://www.linkedin.com/in/prashantthakurnitp/
 
-⭐ Developer  of social networking website fricle http://fricle.tech 
+⭐ Developer  of social networking website fricle http://fricle.pythonanywhere.com
 
-⭐ Email prashantt.ug17.cs@nitp.ac.in
+⭐ Email prashant09.thakur@gmail.com
 
 
