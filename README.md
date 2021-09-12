@@ -12,4 +12,8 @@
 
 ⭐ Email prashant09.thakur@gmail.com
 
+⭐ https://leetcode.com/prashant09t/
+
+⭐ https://www.hackerearth.com/@prashant1230
+
 
