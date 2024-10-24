@@ -1,10 +1,10 @@
-⭐ ASDE2 @ Publicis Sapient
+⭐ ASDE-2 @ Publicis Sapient
 
 ⭐ Currently Works on ReactJs and SpringBoot
 
 ⭐ Graduated from Btech-CSE from NIT PATNA in 2021
 
-⭐ Have worked on Web development framework Django, SpringBoot, Nodejs, ReactJs and Django Rest framework
+⭐ Have worked on Web development framework SpringBoot, Nodejs, ReactJs, Django and Django Rest framework
 
 ⭐ Linkdin profile https://www.linkedin.com/in/prashantthakurnitp/
 
@@ -12,7 +12,7 @@
 
 ⭐ Email prashant09.thakur@gmail.com
 
-⭐ https://leetcode.com/prashant09t/
+⭐ https://leetcode.com/u/prashantthakurnitp/
 
 ⭐ https://www.hackerearth.com/@prashant1230
 
