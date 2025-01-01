@@ -1,6 +1,6 @@
 ⭐ SDE-1 (Senior Associate L2) @ Publicis Sapient
 
-⭐ Currently Works on ReactJs and SpringBoot
+⭐ Currently Works on SpringBoot and Google Cloud
 
 ⭐ Graduated from Btech-CSE from NIT PATNA in 2021
 
