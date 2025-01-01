@@ -1,4 +1,4 @@
-⭐ ASDE-2 @ Publicis Sapient
+⭐ SDE-1 (Senior Associate L2) @ Publicis Sapient
 
 ⭐ Currently Works on ReactJs and SpringBoot
 
